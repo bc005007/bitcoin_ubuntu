@@ -155,6 +155,8 @@ def predict_price(ticker):
         closeDf = forecast[forecast['ds'] == data.iloc[-1]['ds'].replace(hour=9)]
     closeValue = closeDf['yhat'].values[0]
     predicted_close_price = closeValue
+    print("predicted_close_price:")
+    print(predicted_close_price)
     send_slack_message(myToken,"#bitcoinupbit", "predicted_close_price: " +str(predicted_close_price))
 
 # 로그인
