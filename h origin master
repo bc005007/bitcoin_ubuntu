@@ -1,0 +1,17 @@
+[33mcommit 87e299cc40d292d14615da720877921c98ce0957[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Leadstyles <bc005007@ajou.ac.kr>
+Date:   Wed Sep 22 11:20:03 2021 +0900
+
+    add ex_predict_price.py
+
+[33mcommit b7da3af358666231de6b17ffa2d235e4ff02f189[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Leadstyles <bc005007@ajou.ac.kr>
+Date:   Wed Sep 22 11:07:00 2021 +0900
+
+    modify_slack
+
+[33mcommit c8b57b4b53b7093bc347924fc54e9b4a2970fe11[m
+Author: Leadstyles <bc005007@ajou.ac.kr>
+Date:   Wed Sep 22 10:46:59 2021 +0900
+
+    first commit
