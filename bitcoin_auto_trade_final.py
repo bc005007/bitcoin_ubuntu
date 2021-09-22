@@ -12,7 +12,7 @@ with open("upbit.txt") as f:
     lines = f.readlines()
     access = lines[0].strip()
     secret = lines[1].strip()
-    myToken = lines[2].strip()
+    myToken = "xoxb-2351359870022-2358308972563-rujG9eGFc3BLngWfHGF3ueOT"
 
 # 슬랙 메시지 전송
 def send_slack_message(token, channel, text):
